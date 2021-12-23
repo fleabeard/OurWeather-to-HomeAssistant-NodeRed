@@ -9,3 +9,7 @@
 
 https://shop.switchdoc.com/collections/weather/products/weatherplus-all-in-one-weather-station-controller
 
+Installation:
+- Import OurWeatherFlows.json into Node-Red on HomeAssistant. 
+- Edit the Get-Weather-API node to reflect the IP or hostname of your OurWeather instance.
+- Edit the Start node to adjust the polling interval to your needs.
